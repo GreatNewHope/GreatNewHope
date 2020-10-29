@@ -1,3 +1,7 @@
+<div width: 1px>
+  <img src="https://i.imgur.com/cP7IhNm.jpg">
+</div>
+
 <a href="https://github.com/GreatNewHope/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatNewHope&hide_border=true" />
 </a>
